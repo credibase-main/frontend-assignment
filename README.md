@@ -30,7 +30,7 @@ Figma Prototype: [Link](https://www.figma.com/file/ajoMUTBD4az0yUymEdJUN8/Specs-
 
 Clickable Prototype: [Link](https://www.figma.com/proto/ajoMUTBD4az0yUymEdJUN8/Specs-for-Frontend-Assignment?node-id=0%3A1&viewport=709%2C461%2C0.15&scaling=min-zoom&starting-point-node-id=3%3A150)
 
-
+Make sure you go through all comments on Figma as well. 
 
 ### Search API
 API Endpoint: `https://staging.staging.b2brain.com/search/autocomplete_org_all/`
