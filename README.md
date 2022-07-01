@@ -61,9 +61,8 @@ Output Schema:
 
 ## Submission
 
-Fork this repository, and push all your code on this. 
-Once you are done with your assignment, you can submit the same as a pull request to this repository. 
-Let us know at hiring@b2brain.com with the subject "Frontend Assignment Submission". Don't forget to include your resume
+You can submit your assignment by pushing your code to your public github repository. 
+Once you do, don't forget to [fill the form here](https://forms.gle/PN3m4JVFgZ1wzTRA7).
 
 
 ## What happens next?
