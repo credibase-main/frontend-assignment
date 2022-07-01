@@ -22,6 +22,9 @@ The challenge has three deliverables
 
 ## Specs
 
+We are making a single page which would act as a user's primary dashboard to interact with B2Brain.
+Along with that, we have a search-interaction which can search our company database using the API detailed below.
+
 ### Visual Specs
 Figma Prototype: [Link](https://www.figma.com/file/ajoMUTBD4az0yUymEdJUN8/Specs-for-Frontend-Assignment?node-id=0%3A1)
 
