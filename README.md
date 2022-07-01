@@ -75,3 +75,4 @@ Subsequently, we will schedule a phone interview with someone from ur team, and 
 ## Help?
 
 Do not hesitate to ask questions about the assignment to get clarity. Good questions help us understand you better, than bad code :)
+We are available on hiring@b2brain.com (Make sure you put "Frontend Challenege" in the subject)
