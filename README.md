@@ -13,11 +13,10 @@ We are a fast paced environment, that believes in delivering impact to our end u
 
 ## Challenge Outline
 
-The challenge has three deliverables
+The challenge has two deliverables
 
-1. Setting up a blank Django app (on local, with no db)
-2. Serving a single page with all relevant HTML/CSS that visually matches the specs linked below
-3. Interaction on the page, and fetching data from the live API, and submitting the data.
+1. Serving a single page with all relevant HTML/CSS that visually matches the specs linked below
+2. Interaction on the page, and fetching data from the live API, and submitting the data.
 
 
 ## Specs
