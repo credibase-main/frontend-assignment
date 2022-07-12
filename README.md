@@ -52,11 +52,6 @@ Output Schema:
 (You can ignore all other fields)
 
 
-## Constraints
-1. HTML/CSS properties to be used should work across Chrome v80 or above
-2. Knockout.js framework to be used for javascript interactivity
-3. CSS preferrably should be written via Less/Scss/Sass
-
 
 ## Submission
 
