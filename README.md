@@ -38,7 +38,7 @@ Method: `GET`
 
 Data: `q=<search-term>`
 
-Example: `https://tva.staging.b2brain.com/search/autocomplete_org_all/?q=test`
+Example: `https://staging.staging.b2brain.com/search/autocomplete_org_all/?q=test`
 
 Output Schema:
 ```javascript
