@@ -32,7 +32,7 @@ Clickable Prototype: [Link](https://www.figma.com/proto/ajoMUTBD4az0yUymEdJUN8/S
 Make sure you go through all comments on Figma as well. 
 
 ### Search API
-API Endpoint: `https://tva.staging.b2brain.com/search/autocomplete_org_all/`
+API Endpoint: `https://staging.staging.b2brain.com/search/autocomplete_org_all/`
 
 Method: `GET`
 
